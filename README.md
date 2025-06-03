@@ -4,6 +4,8 @@ Copy# Deep Learning Model for Temporomandibular Disorders (TMD) Diagnosis
 
 This repository contains the implementation of a Gated Attention Tabular Transformer (GATT) model for automated diagnosis of Temporomandibular Disorders (TMD) based on the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). Our model achieves high diagnostic accuracy across various TMD subgroups, with AUC values ranging from 0.815 to 1.000.
 
+![Figure 1](Figure1.tif)
+
 ## Key Features
 
 - GATT model implementation for TMD diagnosis
